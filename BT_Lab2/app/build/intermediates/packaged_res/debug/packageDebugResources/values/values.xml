@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray_dark">#535353</color>
+    <color name="gray_light">#FAFAFA</color>
+    <color name="gray_mid">#979797</color>
+    <color name="indigo">#424FB7</color>
+    <color name="light_red">#FF3D00</color>
+    <color name="orange">#FF9800</color>
+    <color name="purple_200">#ffbb86fc</color>
+    <color name="purple_500">#ff6200ee</color>
+    <color name="purple_700">#ff3700b3</color>
+    <color name="teel_200">#ff03dac5</color>
+    <color name="teel_700">#ff018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Staff</string>
+    <string name="txt_email">undefeatablE69@gmail.com</string>
+    <string name="txt_name">Chad Champion</string>
+    <string name="txt_phone1">(650) 555-1234</string>
+    <string name="txt_phone2">(323) 555-6789</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <style name="Base.Theme.BT_Lab2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Full_Screen" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+    <style name="Theme.BT_Lab2" parent="Base.Theme.BT_Lab2"/>
+</resources>
